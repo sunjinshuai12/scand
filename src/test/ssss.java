@@ -5,5 +5,5 @@ package test;
  */
 public class ssss {
 
-   public    String   ssssssssss;
+   public    String   sssssssssss;
 }
